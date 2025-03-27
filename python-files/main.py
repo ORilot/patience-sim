@@ -1,5 +1,9 @@
 # The main file. Currently the only file.
-
+# push to GitHub by doing the following commands in order:
+# git status
+# git add .
+# git commit -m "YOUR MESSAGE"
+# git push origin main
 # Import statements
 import random as rand
 
